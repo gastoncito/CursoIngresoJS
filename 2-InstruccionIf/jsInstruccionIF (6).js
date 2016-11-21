@@ -8,7 +8,7 @@ if(laEdad<13){
 
 /*if(laEdad>=13 && laEdad<=17){
 	alert("Usted es un adolescente ");opcinal consume mas recursos*/
-}else
+}
 if(laEdad>17){
 	alert("usted es mayor de edad");
 }else
