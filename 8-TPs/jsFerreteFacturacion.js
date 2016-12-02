@@ -8,11 +8,11 @@ function Sumar ()
 		var precio2;
 		var precio3;
 		var sumar;
-		precio1=document.getElementById('PrecioUno').value;
+		precio1=document.getElementById('precioUno').value;
 		precio1=parseInt(precio1);
-		precio2=document.getElementById('PrecioDos').value;
+		precio2=document.getElementById('precioDos').value;
 		precio2=parseInt(precio2);
-        precio3=document.getElementById('PrecioTres').value;
+        precio3=document.getElementById('precioTres').value;
         precio3=parseInt(precio3);
 
 		sumar=precio1+precio2+precio3;
